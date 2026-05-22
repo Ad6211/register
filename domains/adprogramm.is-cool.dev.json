@@ -1,0 +1,15 @@
+{
+  "description": "AdPROGRAMM webpage",
+  "domain": "is-cool.dev",
+  "subdomain": "adprogramm",
+
+  "owner": {
+    "repo": "https://github.com/ad6211"
+  },
+
+  "record": {
+    "CNAME": "ad6211.github.io"
+  },
+
+  "proxied": false
+}
